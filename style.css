@@ -1,7 +1,7 @@
 .bg-img1,
 .bg-img2,
 .bg-img3 {
-  height: 500px; /* Cực kỳ quan trọng để hình hiện ra */
+  height: 500px;
   background-color: #000;
   background-size: cover;
   background-position: center;
